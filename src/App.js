@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Ei pin yaaa 222.
+          Ei pin yaaa 2223.
         </p>
         <a
           className="App-link"
